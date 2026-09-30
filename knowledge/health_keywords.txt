@@ -1,0 +1,360 @@
+1. Hypertension
+pressure up, silent killer, pounding head, nosebleeds, dizzy spells, stressed heart
+
+2. Type 2 Diabetes Mellitus
+sugar high, going to the bathroom all night, always thirsty, tired all the time, blurry eyes, cuts not healing, tingling feet
+
+3. Common Cold
+stuffy nose, runny nose, scratchy throat, sneezing fits, feeling run down, head full of cotton, cant smell
+
+4. Influenza
+hit by a truck, fever chills, body aches everywhere, knocked flat, dry hacking cough, too weak to move, burning up
+
+5. Migraine
+splitting head, throbbing on one side, aura zigzag lights, sick to my stomach, cant stand light, any noise hurts, puking pain
+
+6. Asthma
+chest tight, cant catch breath, wheezing sound, coughing fits at night, need my pump, breathing through a straw, lungs feel clogged
+
+7. Allergic Rhinitis
+hay fever, sneezing nonstop, itchy eyes nose, pollen season, watery eyes, sniffles, clogged sinuses
+
+8. Osteoarthritis
+bone on bone, stiff joints in morning, knee grinds, bad hip, weather pain, creaky knees, achy fingers, old age wear tear
+
+9. Urinary Tract Infection
+burning when I pee, gotta go constantly, pee smells foul, cloudy pee, lower belly pressure, only few drops, hurts to go
+
+10. Acne Vulgaris
+zits, pimples, blackheads whiteheads, breakouts, oily skin, face full of bumps, cystic bumps, teenage skin, bad complexion
+
+11. Conjunctivitis
+pink eye, eye goo crust, lashes stuck together, red eye, itchy watery eyes, sand in eye feeling, morning eye sealed shut
+
+12. Sinusitis
+face pressure hurts, clogged nose, thick green snot, toothache feeling, pain bending forward, cant smell, head feels heavy
+
+13. Anemia (Iron Deficiency)
+always exhausted, pale washed out, dizzy standing up, craving ice, weak shaky, cold hands feet, short of breath doing nothing
+
+14. Contact Dermatitis
+itchy red rash, poison ivy bumps, skin burning, blisters weeping, touched something bad, soap allergy, nickel belt buckle rash
+
+15. GERD
+heartburn, fire in chest, acid burps, sour taste throat, burning after eating, cant lie flat, lump in throat, indigestion
+
+16. Irritable Bowel Syndrome
+stomach cramps, bloated belly, gassy, runs or cant go, gut flare up, bathroom urgency, mucus in poop, stressed stomach
+
+17. Otitis Media
+earache, pulling ear, crying at night, ear feels plugged, fever with ear pain, fluid behind drum, cant hear well
+
+18. Gastroenteritis
+stomach flu, throwing up, watery diarrhea, stomach bug, puking guts out, cramping belly, cant keep water down, sick from food
+
+19. Generalized Anxiety Disorder
+cant stop worrying, nervous wreck, mind racing, tight chest from nerves, cant sleep overthinking, on edge, jittery, sense of dread
+
+20. COPD
+smokers lungs, short of breath walking, cant blow out candle, chronic smokers cough, phlegm every morning, out of air, barrel chest
+
+21. Psoriasis
+thick scaly patches, silver flakes, plaque on elbows knees, skin peeling bad, red patches burning, scaly scalp, embarrassing skin
+
+22. Gout
+big toe on fire, swollen toe red hot, can't even touch it, flare up after beer, toe throbbing at night, crystal joint pain
+
+23. Hemorrhoids
+piles, burning down there, blood on toilet paper, lump near anus, itchy bottom, painful to sit, swollen vein backside
+
+24. Hypothyroidism
+thyroid slow, always cold, gaining weight eating same, tired sluggish, puffy face, hair falling out thinning, brain fog can't think
+
+25. Peptic Ulcer Disease
+hole in stomach, gnawing burning gut, pain comes empty stomach, ulcer acting up, black stool tarry, vomit coffee grounds
+
+26. Carpal Tunnel Syndrome
+wrist pain numb fingers, hand falls asleep at night, tingling thumb, shaking hand to wake it, weak grip dropping things, pins needles wrist
+
+27. Eczema (Atopic)
+crazy itchy skin, dry red patches, rash inside elbows, oozing crusty skin, itching till it bleeds, sensitive skin, rough leathery patches
+
+28. Glaucoma
+silent thief sight, tunnel vision closing in, pressure in eye, losing side vision, bumping into things, eye pain headache nausea
+
+29. Sciatica
+shooting pain down leg, nerve pinch in back, electric jolt down butt cheek, numb foot, pain sitting driving, back to leg pain
+
+30. Dyslipidemia
+bad cholesterol high, blood full of fat, clogging arteries silent, nothing feels wrong, ticking time bomb, lipid panel off
+
+31. Rosacea
+red face flushing, broken veins on cheeks, nose always red, acne like bumps but not, blush easily trigger, hot face stinging
+
+32. Plantar Fasciitis
+heel pain first step, stone bruise feeling, foot hurts out of bed, stabbing arch, standing all day pain, heel spur pain
+
+33. Pneumonia
+chest infection deep, phlegm green rust, fever shaking chills, crackling sound breathing, drowning in lungs, breathing hurts sharp
+
+34. Cellulitis
+red swollen leg hot, spreading redness fast, skin infection red streaks, leg tight shiny, fever chills wound entry, swollen ankle red
+
+35. Ankylosing Spondylitis
+back stiff as board morning, young bad back, spine fusing, hurts resting better moving, stooped forward, hip back pain deep
+
+36. Meniere's Disease
+room spinning vertigo, dizzy attacks, ear fullness pressure, hearing dips waves, ringing roaring ear, throw up dizzy, can't stand up spin
+
+37. Peripheral Neuropathy
+feet burning tingling, socks feel weird, numb toes, can't feel ground, pins needles feet hands, electric shocks, walking on cotton
+
+38. Insomnia
+can't fall asleep, wide awake at 3am, tossing turning, mind won't shut off, exhausted but wired, light sleeper, waking up tired
+
+39. Epilepsy
+seizure fits, blackout shaking, zoning out spells, convulsions grand mal, tongue bitten after, confused after spell, auras warning deja vu
+
+40. Osteoporosis
+brittle bones, shrinking height, hunchback stoop, broken hip from slip, spine fracture no fall, bone thinning silent, dowagers hump
+
+41. Bursitis
+swollen elbow lump, hip pain lying on side, shoulder pinch reaching up, fluid sac swollen, housemaid knee, joint swollen soft
+
+42. Laryngitis
+lost voice, laryngitis voice gone, raspy whisper, throat scratchy no sound, voice box fried, croaking not talking
+
+43. Vertigo (BPPV)
+room spinning in bed, dizzy rolling over, head movement spins, ear crystals loose, world tilts turning head, positional vertigo
+
+44. Conjunctivitis (Allergic)
+eyes itching like crazy, seasonal eye allergy, stringy eye goop, swollen eyelids puffy, watery eyes sneezing, rubbing eyes makes worse
+
+45. Impetigo
+honey crust sores, school sores, weeping yellow scab, sore around mouth, infected skin kids, blister rash, contagious scabs
+
+46. TMJ Disorder
+jaw clicking popping, locked jaw, face sore chewing, grinding teeth pain, earache but ear fine, temple headache jaw, bite feels off
+
+47. Diverticulitis
+left side belly pain sharp, colon pouches infected, fever chills gut, can't poop with pain, gut flare left, tender colon spot
+
+48. Fibromyalgia
+hurts all over, tender points, achy body, fibro fog can't think, tired beyond words, pain weather changes, body wide pain
+
+49. Scabies
+itching worse at night, bugs under skin, red lines burrow, finger webs itchy, whole family itching, tiny bumps everywhere
+
+50. Whooping Cough
+100 day cough, whoop sound gasp, coughing fit till puke, cough turning blue, can't breathe between coughs, choking on phlegm, kids bad cough
+
+51. Kidney Stones
+flank pain worst ever, back pain comes waves, peeing blood, groin pain knife twisting, can't sit still pain, burning to pee gravel
+
+52. Panic Disorder
+panic attack out of blue, heart pounding dying, can't breathe tingling, going crazy feeling, chest pain feels heart attack, terror wave, doom surge
+
+53. Chronic Fatigue Syndrome
+crashed completely, payback exertion, never feel rested, body battery dead, brain fog wall, post exertional malaise, wiped out doing nothing
+
+54. Celiac Disease
+can't eat gluten, bread makes me sick, diarrhea foul floating, stomach wrecked wheat, brain fog gluten, rash blisters itchy, wasting away
+
+55. Shingles
+nerve pain before rash, blisters one side belt, chickenpox virus comeback, skin burns stabbing, rash on one strip, elderly bad pain
+
+56. Erectile Dysfunction
+can't get it up, impotence, erection not hard enough, performance fails, soft staying power, man problem, sex not working
+
+57. Genital Herpes
+cold sores down there, burning blisters private, tingling before sore, herpes outbreak, painful bumps genitals, recurring sores
+
+58. Meningitis
+stiff neck can't bend head, worst headache ever, light hurts eyes, purple rash doesn't fade, neck rigid, fever confused, glass test rash
+
+59. Urinary Incontinence (Stress)
+pee leak sneeze, bladder slips cough, dribble urine jump, wet myself laughing, weak bladder running, pelvic floor shot, can't hold pee
+
+60. Gallstones
+gallbladder attack, right side pain ribs, hurts after fatty meal, shoulder blade pain, nauseous can't eat fat, bloated sick greasy food
+
+61. Restless Legs Syndrome
+jimmy legs, creepy crawly legs, gotta move legs night, can't sit still legs, bed time legs driving crazy, bugs under skin legs, pacing floor at night
+
+62. Conjunctivitis (Viral)
+pink eye watery, cold in eye, eye red watery contagious, sand gritty eye, eye cold viral, eye feels raw
+
+63. Sickle Cell Disease
+pain crisis, bones screaming pain, sicklers crisis, blood cells sickle, can't get air chest, jaundice yellow eyes, pain meds only
+
+64. Multiple Sclerosis
+numbness one side, leg gave out, vision blurred one eye, ms hug squeezing, electric zap neck, balance off wobbly, brain short circuit
+
+65. Gingivitis
+gums bleeding, swollen red gums, bad breath morning, gums puffy, spit blood brush, sore gums, teeth feel fuzzy plaque
+
+66. Lactose Intolerance
+milk makes me sick, dairy runs, bloated gas cheese, can't digest milk, stomach cramps ice cream, lactose runs, dairy diarrhea
+
+67. Prostatitis
+pain down there men, sitting hurts crotch, pee burns prostate, testicle ache, pain ejaculation, gotta pee all time, pelvic floor tight
+
+68. TMD
+jaw locking open, muscle knot jaw, bite off, teeth clenching, cheek sore, popping jaw joint, can't open wide
+
+69. Dandruff
+flakes on shoulders, itchy scalp white flakes, head snow, scalp scaling, oily flakes hair, seborrhea scalp, flaky scalp embarrassing
+
+70. Hives
+welts popping up, itchy bumps everywhere, raised red welts, allergic bumps, hives come go, skin writing bumps, nettle rash
+
+71. Ingrown Toenail
+nail digging in, toe red swollen side, pus side nail, ingrown painful, can't wear shoes big toe, nail growing into skin
+
+72. Candidiasis (Vaginal)
+cottage cheese discharge, yeast down there, itchy vulva burning, bread smell, thrush private, white thick clumpy, burning pee not UTI
+
+73. Sleep Apnea
+stop breathing in sleep, snoring choke gasp, tired no matter sleep, snore like freight train, partner hears me stop breathing, morning headache
+
+74. Rotator Cuff Injury
+can't lift arm, shoulder pain reaching back, hurts to sleep on side, shoulder sharp pain overhead, bra strap pain, arm weak shoulder
+
+75. Chlamydia
+silent clap, no symptoms but discharge, burning pee subtle, std quiet, abnormal discharge, bleeding between, testicle ache
+
+76. Gluten Ataxia
+drunk walk not drunk, balance gone wheat, clumsy gluten, brain attack bread, wobbly on feet, slurred words, can't walk heel toe
+
+77. Hypertensive Retinopathy
+eye damage high pressure, bleeding back of eye, vision blurry from blood pressure, silent eye damage, hypertensive eyes, blood vessels leak eye
+
+78. Hypoglycemia
+sugar crash low, shaky weak need juice, cold sweat dizzy, about to pass out low sugar, hangry shaking, blurry vision low, blood sugar drop
+
+79. Keloid
+scar keeps growing, raised ugly scar, thick scar bump, itchy scar, keloid lump, scar past wound, overgrown scar tissue
+
+80. Presbyopia
+arms too short, reading blurry up close, need readers, can't see menu, phone font bigger, forty eyes old sight, hold book far away
+
+81. Appendicitis
+belly pain moved right, appendix burst fear, pain belly button then lower right, can't jump hurts, rebound pain, emergency stomach
+
+82. PCOS
+periods missing, hair growing chin, weight gain hormonal, ovaries cyst string pearls, can't get pregnant, acne hormonal, hair thinning male pattern
+
+83. Tinnitus
+ringing ears, buzzing sound head, phantom noise, ears hissing, high pitched noise silent room, tinnitus screaming, ear noise driving crazy
+
+84. Huntington's Disease
+dance movements jerky, family curse disease, chorea fidgeting, mood swings angry, parent had it, brain wasting, moving not control
+
+85. Dyshidrotic Eczema
+tapioca bumps hands, itchy blisters palms, foot blisters tiny, peeling skin after blisters, dishydrotic sweat bumps, seasonal hand bumps
+
+86. Spinal Stenosis
+shopping cart sign, legs go numb walking, back pain standing better sitting, leaning forward to walk, spine squeezing nerves, butt legs heavy cramp
+
+87. MRSA Infection
+antibiotic resistant boil, spider bite looking, flesh infection bad, pus filled abscess, won't heal, superbug skin, red hot lump
+
+88. Athlete's Foot
+itch between toes, foot fungus, peeling toe webs, ringworm foot, sweaty foot rash, locker room foot, burning itchy feet
+
+89. Conjunctivitis (Bacterial)
+yellow goop eye, crusty eye lashes glued, thick eye discharge, green pus eye, eye infection sticky, bacterial pink eye
+
+90. Syphilis (Primary)
+painless sore down there, chancre hard, ulcer genitals not hurt, syphilis first sore, kiss of syphilis, one sore only
+
+91. IBS-C
+can't go, constipated and cramping, bloated can't poop, stool hard lumps, strain on toilet, belly pain relieved somewhat by going, backed up
+
+92. Croup
+barking seal cough, baby stridor noise, raspy breath in, croup cough night, scary breathing sound child, hoarse kid
+
+93. Retinal Detachment
+curtain over eye, flashes light peripheral, floaters cobwebs sudden, shadow closing in, vision like shade drawn, emergency eye curtain
+
+94. Binge Eating Disorder
+can't stop eating once start, eat till sick, secret eating shame, food out of control, binging hiding wrappers, stuffed guilty
+
+95. Kyphosis (Postural)
+hunchback poor posture, round shoulders slouch, head forward, text neck hump, back rounding, dowager hump
+
+96. Tension Headache
+hat band tight, pressure head, vise squeezing head, stress headache band, neck tight head, dull achy head, end of day headache
+
+97. Pityriasis Rosea
+herald patch first, Christmas tree rash back, pink scaly spots trunk, one big patch then many small, harmless rash months
+
+98. Glomerulonephritis
+cola colored pee, puffy eyes morning, tea pee, kidneys inflamed after strep, swollen ankles face, blood in urine dark
+
+99. Baker's Cyst
+lump behind knee, balloon behind knee, tight popliteal, can't straighten knee, burst calf pain swelling, fluid pocket knee back
+
+100. Amenorrhea
+periods stopped, no cycle missing months, not pregnant no period, periods gone, secondary amenorrhea, menstrual cycle absent
+
+101. Deep Vein Thrombosis
+one leg swollen bigger, calf pain tight, blood clot leg fear, leg hot red one side, long flight leg pain, dvt worry
+
+102. Emphysema
+pink puffer, barrel chest, breathing through straw, minimal cough short breath, lung tissue destroyed, thin wasted away, can't exhale
+
+103. Anaphylaxis
+throat closing up, lips tongue swelling, can't breathe reaction, epi pen now, full body hives, shock allergic, dying feeling allergy
+
+104. Otitis Externa
+swimmer's ear, ear hurts to touch, tug ear painful, water stuck ear, ear canal infection, ear swollen shut
+
+105. Vitamin D Deficiency
+no sunshine vitamin, bones ache deep, tired depressed winter, muscle weak stairs hard, don't get enough sun, deficient d
+
+106. Plantar Wart
+seed wart foot, hurts like stone shoe, black dots foot bump, sole wart, verruca, caught from shower floor, painful callus spot
+
+107. Chalazion
+lump in eyelid not painful, stye that isn't red, hard pea eyelid, blocked oil gland eye, chalazion lid bump, deep eyelid bump
+
+108. Achilles Tendinitis
+heel cord pain, back ankle stiff morning, tendon above heel thick, hurts to run push off, achilles sore, can't go up on toes
+
+109. Bulimia Nervosa
+binge purge cycle, throw up after eating, laxative abuse, russell sign knuckles, teeth ruined vomit, secret eating bathroom, self induce vomit
+
+110. Hiatal Hernia
+stomach pushed up chest, heartburn all time, acid coming up lying flat, hernia hiatus, stomach bulge diaphragm, reflux surgery maybe
+
+111. Cervical Spondylosis
+neck arthritis, bone spurs neck, grinding neck sound, neck pain goes down arm, hands clumsy dropping, stiff neck aging
+
+112. Molluscum Contagiosum
+water wart bumps, pearly bumps dimple, belly bumps kids, flesh colored domes, contagious bumps, white core bump, pox virus skin
+
+113. Borderline Personality Disorder
+splitting love hate, fear abandon, empty feeling, cut myself cope, rollercoaster relationships, bpd intense emotions, self harm
+
+114. Dry Eye Syndrome
+gritty eyes dry, burning feeling eyes, like sand in eyes, tears evaporate fast, screen eyes strain, blurry vision comes goes
+
+115. Periorbital Cellulitis
+eyelid swollen shut red, around eye infection, lid hot puffy, eye swollen but ball moves, infection anterior septum, child swollen eyelid
+
+116. Polymyalgia Rheumatica
+hips shoulders locked up, can't get out of chair, morning stiffness old person, hurts to lift arms, girdle pain, feels like paralyzed morning
+
+117. Vitiligo
+white patches spreading, skin losing color, pigment gone, milky white spots, no tan patches, michael jackson skin, depigmentation
+
+118. Epididymitis
+testicle swollen sore back, cord behind testicle inflamed, ball ache infection, STD testicle pain, epididymis swollen tender, gradual ball pain
+
+119. Narcolepsy
+fall asleep anytime, sleep attack, muscles go weak laughing, cataplexy, dream while awake, sleep paralysis cant move, uncontrollable naps
+
+120. Interstitial Cystitis
+painful bladder no infection, pee 60 times day, bladder burning all time, trigger foods bladder, pelvic pain full bladder, IC flare
+
