@@ -1,0 +1,16 @@
+﻿.venv/
+__pycache__/
+*.pyc
+*.wav
+.env
+.env.*
+*.gguf
+*.bin
+*.pt
+*.pth
+*.onnx
+embeddings.pkl
+data/faces.pkl
+data/memory.json
+runs/
+logs/
